@@ -136,7 +136,6 @@ Lines of Documentation: ~3500
 Supported C++ Standard: C++14 minimum, C++23 preferred
 Dependencies: Standard Library only
 Platforms: Windows, Linux, macOS
-License: MIT (add LICENSE file)
 
 CONTACT:
 --------
@@ -152,4 +151,5 @@ Include in your report:
 ================================================================================
                               END OF INDEX
 ================================================================================
+
 
