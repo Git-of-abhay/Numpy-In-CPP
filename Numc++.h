@@ -354,6 +354,5 @@ Array cumtrapz(const Array& y, const Array& x);
 Array interp(const Array& x_new, const Array& x, const Array& y);
 
 }
-
 #endif
 
