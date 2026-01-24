@@ -4,7 +4,6 @@
 #include <map>
 #include <tuple>
 #include <cstring>
-
 #define _USE_MATH_DEFINES
 #include <cmath>
 #ifndef M_PI
