@@ -4,7 +4,7 @@
 ## 1) Download from GitHub
 
 - Using git:
-  git clone https://github.com/your-user/numcpp.git
+  git clone https://github.com/git-of-abhay/numcpp.git
   cd numcpp/Numc++
 
 - Without git:
@@ -55,4 +55,5 @@ CMake sample (Linux/macOS):
 ## 5) Contact
 
 Report issues to: sabhay@zohomail.in
+
 
